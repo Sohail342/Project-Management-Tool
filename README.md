@@ -61,6 +61,13 @@ Create a superuser (Optional)
   python manage.py createsuperuser
 
 ```
+## Step 6:
+Run Local Server
+
+```bash
+  python manage.py runserver
+
+```
 
 ### API Endpoints Overview
 
